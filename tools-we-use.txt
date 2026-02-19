@@ -1,0 +1,5 @@
+GIT
+GitHub
+VS code
+Linux
+python
