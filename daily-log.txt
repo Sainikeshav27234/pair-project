@@ -1,2 +1,2 @@
-Day 1: Keshav created the daily log file.
+Day 1: Repo created.
 Day 2:Prince updated the log file.
