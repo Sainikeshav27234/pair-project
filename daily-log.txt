@@ -1,3 +1,4 @@
 Day 1: Repo created.
 Day 2:files added.
 Day 3: Collaboration successful.
+Day 4:Learned push and pull workflow.
