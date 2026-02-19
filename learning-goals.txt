@@ -1,3 +1,4 @@
 Improve problem-solving skills.
 Learn advanced Git and GitHub.
 Build at least one complete project.
+Practice data structures daily.
