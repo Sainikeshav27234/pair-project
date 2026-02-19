@@ -1,2 +1,3 @@
 Favourite Programming language : Python
 One Skill: Problem solving
+Another Skill: Teamwork
