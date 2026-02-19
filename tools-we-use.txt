@@ -3,3 +3,5 @@ GitHub
 VS code
 Linux
 python
+Docker
+Postman
